@@ -7,3 +7,5 @@ The application is a simple Spring Boot 2 / Spring Framework 5 web application.
 If you would like learn about what's new in Spring Framework 5, click [here](https://springframework.guru/what-is-new-with-spring-framework-5/)
 
 You can learn about my Spring Framework 5 Online course [here.](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO)
+
+This comment is to check git commit
